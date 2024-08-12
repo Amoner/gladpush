@@ -559,25 +559,6 @@
       "id": "163505"
     },
     {
-      "name": "Entangling Roots",
-      "class": "Druid",
-      "spec": "all",
-      "drCategory": "root",
-      "duration": 6,
-      "cooldown": 0,
-      "icon": "spell_nature_stranglevines",
-      "castTime": "Instant",
-      "range": 30,
-      "type": "Magic",
-      "breakable": true,
-      "dispellable": true,
-      "aoeOrSingle": "Single Target",
-      "secondaryEffects": null,
-      "talentSpecific": false,
-      "pvpModifications": null,
-      "id": "170855"
-    },
-    {
       "name": "Meteor Strike",
       "class": "Warlock",
       "spec": "All",
