@@ -1572,25 +1572,6 @@
       "id": "233759"
     },
     {
-      "name": "Entangling Roots",
-      "class": "Druid",
-      "spec": "all",
-      "drCategory": "root",
-      "duration": 30,
-      "cooldown": null,
-      "icon": "spell_nature_stranglevines",
-      "castTime": "1.7 seconds",
-      "range": 35,
-      "type": "Magic",
-      "breakable": true,
-      "dispellable": true,
-      "aoeOrSingle": "Single Target",
-      "secondaryEffects": "Rooted; Increases the target's chance to hit reduced by 80%",
-      "talentSpecific": false,
-      "pvpModifications": null,
-      "id": "235963"
-    },
-    {
       "name": "Disarm",
       "class": "Warrior",
       "spec": "all",
