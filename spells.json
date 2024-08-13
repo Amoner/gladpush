@@ -832,8 +832,8 @@
       "spec": "all",
       "drCategory": "root",
       "duration": 4,
-      "cooldown": null,
-      "icon": "spell_shaman_bindelemental",
+      "cooldown": 30,
+      "icon": "spell_yorsahj_bloodboil_black",
       "castTime": "instant",
       "range": 50000,
       "type": "Nature",
@@ -2037,7 +2037,7 @@
     },
     {
       "name": "Consecutive Concussion",
-      "class": "",
+      "class": "Marksmanship",
       "spec": "all",
       "drCategory": "stun",
       "duration": 4,
@@ -2052,7 +2052,7 @@
       "secondaryEffects": "Applies Stun",
       "talentSpecific": false,
       "pvpModifications": null,
-      "id": "357021"
+      "id": "357018"
     },
     {
       "name": "Paralysis",
