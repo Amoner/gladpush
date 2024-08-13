@@ -1363,25 +1363,6 @@
       "id": "221562"
     },
     {
-      "name": "Mind Bomb",
-      "class": "Priest",
-      "spec": "all",
-      "drCategory": "disorient",
-      "duration": 6,
-      "cooldown": 30,
-      "icon": "spell_shadow_mindbomb",
-      "castTime": "Instant",
-      "range": 30,
-      "type": "Magic",
-      "breakable": null,
-      "dispellable": true,
-      "aoeOrSingle": "AoE",
-      "secondaryEffects": "Disorients all enemies within 8 yards of the target for 5 sec. If the target is not within 8 yards of any enemies, they will be disoriented for 6 sec.",
-      "talentSpecific": false,
-      "pvpModifications": null,
-      "id": "226943"
-    },
-    {
       "name": "Deathchill",
       "class": "Death Knight",
       "spec": "Frost",
