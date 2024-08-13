@@ -2037,8 +2037,8 @@
     },
     {
       "name": "Consecutive Concussion",
-      "class": "Marksmanship",
-      "spec": "all",
+      "class": "Hunter",
+      "spec": "Marksmanship",
       "drCategory": "stun",
       "duration": 4,
       "cooldown": 0,
