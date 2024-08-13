@@ -1196,7 +1196,7 @@
       "class": "Druid",
       "spec": null,
       "drCategory": "disarm",
-      "duration": 8,
+      "duration": 5,
       "cooldown": 30,
       "icon": "spell_druid_swarm",
       "castTime": "instant",
