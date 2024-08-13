@@ -2075,8 +2075,8 @@
     },
     {
       "name": "Terror of the Skies",
-      "class": "Hunter",
-      "spec": "Beast Mastery",
+      "class": "Evoker",
+      "spec": null,
       "drCategory": "stun",
       "duration": 3,
       "cooldown": 120,
