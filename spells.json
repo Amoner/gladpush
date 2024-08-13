@@ -1698,7 +1698,7 @@
       "drCategory": "stun",
       "duration": 5,
       "cooldown": 30,
-      "icon": "inv_misc_esotericpowers_lightning",
+      "icon": "shaman_pvp_lightninglasso",
       "castTime": "Channeled",
       "range": 20,
       "type": "Magic",
