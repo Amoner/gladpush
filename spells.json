@@ -141,7 +141,7 @@
       "class": "Priest",
       "spec": null,
       "drCategory": "root",
-      "duration": 20,
+      "duration": 6,
       "cooldown": 60,
       "icon": "spell_priest_voidtendrils",
       "castTime": "Instant",
