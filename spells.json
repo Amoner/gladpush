@@ -2598,7 +2598,7 @@
       "spec": "all",
       "drCategory": "incapacitate",
       "duration": 30,
-      "cooldown": null,
+      "cooldown": 0,
       "icon": "spell_shadow_cripple",
       "castTime": "1.5 sec",
       "range": 30,
