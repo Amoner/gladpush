@@ -483,13 +483,13 @@
       "id": "157981"
     },
     {
-      "name": "Steel Trap",
+      "name": "Consecutive Concussion",
       "class": "Hunter",
-      "spec": "all",
-      "drCategory": "root",
+      "spec": "marksmanship",
+      "drCategory": "stun",
       "duration": 20,
       "cooldown": 60,
-      "icon": "ability_hunter_steeltrap",
+      "icon": "spell_frost_stun",
       "castTime": "Instant",
       "range": 100,
       "type": "Physical",
