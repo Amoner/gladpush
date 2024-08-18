@@ -1960,44 +1960,6 @@
       "id": "342375"
     },
     {
-      "name": "Wailing Arrow",
-      "class": "Hunter",
-      "spec": null,
-      "drCategory": "silence",
-      "duration": 5,
-      "cooldown": 60,
-      "icon": "ability_theblackarrow",
-      "castTime": "Instant",
-      "range": 40,
-      "type": "Magic",
-      "breakable": true,
-      "dispellable": true,
-      "aoeOrSingle": "AoE",
-      "secondaryEffects": "Silences enemies for 5 sec",
-      "talentSpecific": false,
-      "pvpModifications": null,
-      "id": "354831"
-    },
-    {
-      "name": "Wailing Arrow",
-      "class": "Hunter",
-      "spec": null,
-      "drCategory": "silence",
-      "duration": 5,
-      "cooldown": 60,
-      "icon": "ability_theblackarrow",
-      "castTime": "Instant",
-      "range": 40,
-      "type": "Magic",
-      "breakable": false,
-      "dispellable": true,
-      "aoeOrSingle": "AoE",
-      "secondaryEffects": "Interrupts for 3 seconds",
-      "talentSpecific": false,
-      "pvpModifications": false,
-      "id": "355596"
-    },
-    {
       "name": "Landslide",
       "class": "Evoker",
       "spec": "All",
@@ -2017,12 +1979,12 @@
       "id": "355689"
     },
     {
-      "name": "Spider Venom",
+      "name": "Chimaeral Sting",
       "class": "Hunter",
       "spec": "all",
       "drCategory": "silence",
       "duration": 3,
-      "cooldown": null,
+      "cooldown": 60,
       "icon": "hunter_pvp_spidersting",
       "castTime": null,
       "range": 100,
@@ -2030,10 +1992,10 @@
       "breakable": false,
       "dispellable": true,
       "aoeOrSingle": "Single Target",
-      "secondaryEffects": "Reduces movement speed, Causes periodic nature damage",
+      "secondaryEffects": "Silence",
       "talentSpecific": null,
       "pvpModifications": null,
-      "id": "356727"
+      "id": "356719"
     },
     {
       "name": "Paralysis",
