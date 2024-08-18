@@ -829,7 +829,7 @@
     {
       "name": "Super Sticky Tar",
       "class": "Hunter",
-      "spec": "all",
+      "spec": "Survival",
       "drCategory": "root",
       "duration": 4,
       "cooldown": 30,
