@@ -922,25 +922,6 @@
       "id": "202346"
     },
     {
-      "name": "Spider Sting",
-      "class": "Hunter",
-      "spec": null,
-      "drCategory": "silence",
-      "duration": 4,
-      "cooldown": 45,
-      "icon": "hunter_pvp_spidersting",
-      "castTime": "Instant",
-      "range": 100,
-      "type": "Physical",
-      "breakable": null,
-      "dispellable": false,
-      "aoeOrSingle": "Single Target",
-      "secondaryEffects": null,
-      "talentSpecific": true,
-      "pvpModifications": null,
-      "id": "202933"
-    },
-    {
       "name": "Maim",
       "class": "Druid",
       "spec": "Feral",
