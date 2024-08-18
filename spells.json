@@ -599,7 +599,7 @@
     {
       "name": "Cheap Shot",
       "class": "Rogue",
-      "spec": null,
+      "spec": "all",
       "drCategory": "stun",
       "duration": 4,
       "cooldown": 1,
