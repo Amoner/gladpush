@@ -429,7 +429,7 @@
       "spec": "all",
       "drCategory": "disorient",
       "duration": 20,
-      "cooldown": null,
+      "cooldown": 0,
       "icon": "ability_druid_cower",
       "castTime": "1.5 seconds",
       "range": 30,
