@@ -101,7 +101,7 @@
     {
       "name": "Asphyxiate",
       "class": "Death Knight",
-      "spec": "All",
+      "spec": "Frost",
       "drCategory": "stun",
       "duration": 4,
       "cooldown": 45,
