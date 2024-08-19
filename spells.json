@@ -1114,25 +1114,6 @@
       "id": "207685"
     },
     {
-      "name": "Dismantle",
-      "class": "Rogue",
-      "spec": "all",
-      "drCategory": "disarm",
-      "duration": 5,
-      "cooldown": 45,
-      "icon": "ability_rogue_dismantle",
-      "castTime": "instant",
-      "range": 5,
-      "type": "Physical",
-      "breakable": null,
-      "dispellable": false,
-      "aoeOrSingle": "Single Target",
-      "secondaryEffects": null,
-      "talentSpecific": true,
-      "pvpModifications": null,
-      "id": "207777"
-    },
-    {
       "name": "Illidan's Grasp",
       "class": "Demon Hunter",
       "spec": "Vengeance",
