@@ -2194,7 +2194,7 @@
     {
       "name": "Kidney Shot",
       "class": "Rogue",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "stun",
       "duration": 1,
       "cooldown": 20,
