@@ -177,7 +177,7 @@
     {
       "name": "Disable",
       "class": "Monk",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "root",
       "duration": 8,
       "cooldown": 0,
@@ -234,7 +234,7 @@
     {
       "name": "Fear",
       "class": "Warlock",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "disorient",
       "duration": 20,
       "cooldown": 0,
@@ -253,7 +253,7 @@
     {
       "name": "Static Charge",
       "class": "Shaman",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "stun",
       "duration": 3,
       "cooldown": null,
@@ -312,7 +312,7 @@
     {
       "name": "Frost Nova",
       "class": "Mage",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "root",
       "duration": 8,
       "cooldown": 30,
@@ -331,7 +331,7 @@
     {
       "name": "Fear",
       "class": "Warlock",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "disorient",
       "duration": 20,
       "cooldown": 0,
@@ -388,7 +388,7 @@
     {
       "name": "Garrote - Silence",
       "class": "Rogue",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "silence",
       "duration": 6,
       "cooldown": null,
@@ -523,7 +523,7 @@
     {
       "name": "Meteor Strike",
       "class": "Warlock",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "stun",
       "duration": 2,
       "cooldown": 60,
@@ -981,7 +981,7 @@
     {
       "name": "Shining Force",
       "class": "Priest",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "knockback",
       "duration": 3,
       "cooldown": 45,
@@ -1097,7 +1097,7 @@
     {
       "name": "Sigil of Misery",
       "class": "Demon Hunter",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "disorient",
       "duration": 30,
       "cooldown": 60,
@@ -1116,7 +1116,7 @@
     {
       "name": "Dismantle",
       "class": "Rogue",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "disarm",
       "duration": 5,
       "cooldown": 45,
@@ -1232,7 +1232,7 @@
     {
       "name": "Tracker's Net",
       "class": "Hunter",
-      "spec": "All",
+      "spec": "Survival",
       "drCategory": "root",
       "duration": 6,
       "cooldown": 25,
@@ -1924,7 +1924,7 @@
     {
       "name": "Landslide",
       "class": "Evoker",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "root",
       "duration": 30,
       "cooldown": 90,
@@ -1962,7 +1962,7 @@
     {
       "name": "Paralysis",
       "class": "Monk",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "incapacitate",
       "duration": 60,
       "cooldown": 45,
@@ -2137,7 +2137,7 @@
     {
       "name": "Entrapment",
       "class": "Hunter",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "root",
       "duration": 4,
       "cooldown": null,
