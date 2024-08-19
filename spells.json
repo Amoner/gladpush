@@ -1614,8 +1614,8 @@
       "class": "Death Knight",
       "spec": "Frost",
       "drCategory": "stun",
-      "duration": 5,
-      "cooldown": 60,
+      "duration": 4,
+      "cooldown": 20,
       "icon": "spell_frost_wisp",
       "castTime": "Instant",
       "range": 100,
@@ -1625,7 +1625,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": {
         "damageReduction": "25% for 10 sec",
-        "stunDuration": 5
+        "stunDuration": 4
       },
       "talentSpecific": true,
       "pvpModifications": "Remorseless Winter's cooldown reduced by 5 seconds",
@@ -2292,7 +2292,7 @@
       "spec": "all",
       "drCategory": "silence",
       "duration": 5,
-      "cooldown": 120,
+      "cooldown": 45,
       "icon": "spell_shadow_soulleech_3",
       "castTime": "Instant",
       "range": 30,
