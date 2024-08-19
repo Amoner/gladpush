@@ -2522,7 +2522,7 @@
     {
       "name": "Psychic Scream",
       "class": "Priest",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "disorient",
       "duration": 6,
       "cooldown": 45,
