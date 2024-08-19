@@ -2175,7 +2175,7 @@
     {
       "name": "Sticky Tar Bomb",
       "class": "Hunter",
-      "spec": "All",
+      "spec": "Survival",
       "drCategory": "disarm",
       "duration": 4,
       "cooldown": 30,
@@ -2190,25 +2190,6 @@
       "talentSpecific": false,
       "pvpModifications": null,
       "id": "407031"
-    },
-    {
-      "name": "Sticky Tar Bomb",
-      "class": "Hunter",
-      "spec": null,
-      "drCategory": "disarm",
-      "duration": 4,
-      "cooldown": 30,
-      "icon": "ability_hunter_stickytarbombtrap",
-      "castTime": "Instant",
-      "range": 40,
-      "type": "Physical",
-      "breakable": null,
-      "dispellable": true,
-      "aoeOrSingle": "Single Target",
-      "secondaryEffects": "After a few seconds, Sticky Tar Bomb explodes on impact, dealing fire damage to all enemies within 8 yards.",
-      "talentSpecific": false,
-      "pvpModifications": null,
-      "id": "407032"
     },
     {
       "name": "Kidney Shot",
