@@ -1232,7 +1232,7 @@
         {
       "name": "Scatter Shot",
       "class": "Hunter",
-      "spec": "Beast Master",
+      "spec": "Beast Mastery",
       "drCategory": "incapacitate",
       "duration": 4,
       "cooldown": 30,
