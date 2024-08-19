@@ -1851,7 +1851,7 @@
       "spec": "Frost",
       "drCategory": "stun",
       "duration": 3,
-      "cooldown": null,
+      "cooldown": 90,
       "icon": "spell_frost_frostnova",
       "castTime": "Instant",
       "range": 100,
