@@ -2289,7 +2289,7 @@
     {
       "name": "Strangulate",
       "class": "Death Knight",
-      "spec": "Blood",
+      "spec": "all",
       "drCategory": "silence",
       "duration": 5,
       "cooldown": 120,
