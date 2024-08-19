@@ -981,7 +981,7 @@
     {
       "name": "Shining Force",
       "class": "Priest",
-      "spec": "all",
+      "spec": "removed",
       "drCategory": "knockback",
       "duration": 3,
       "cooldown": 45,
