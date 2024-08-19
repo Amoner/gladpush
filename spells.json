@@ -105,7 +105,7 @@
       "drCategory": "stun",
       "duration": 4,
       "cooldown": 45,
-      "icon": "bility_deathknight_asphixiate",
+      "icon": "ability_deathknight_asphixiate",
       "castTime": "Instant",
       "range": 20,
       "type": "Physical",
