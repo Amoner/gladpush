@@ -1076,7 +1076,7 @@
     {
       "name": "Blinding Sleet",
       "class": "Death Knight",
-      "spec": "All",
+      "spec": "all",
       "drCategory": "disorient",
       "duration": 5,
       "cooldown": 60,
