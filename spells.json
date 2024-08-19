@@ -1344,25 +1344,6 @@
       "id": "221562"
     },
     {
-      "name": "Deathchill",
-      "class": "Death Knight",
-      "spec": "Frost",
-      "drCategory": "root",
-      "duration": 4,
-      "cooldown": 60,
-      "icon": "spell_frost_frostarmor",
-      "castTime": "Instant",
-      "range": 100,
-      "type": "Magic",
-      "breakable": true,
-      "dispellable": true,
-      "aoeOrSingle": "AoE",
-      "secondaryEffects": "Root",
-      "talentSpecific": true,
-      "pvpModifications": null,
-      "id": "233395"
-    },
-    {
       "name": "Entrenched in Flame",
       "class": "Mage",
       "spec": "All",
