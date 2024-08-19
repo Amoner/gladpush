@@ -1217,7 +1217,7 @@
       "drCategory": "root",
       "duration": 6,
       "cooldown": 25,
-      "icon": "Hunter_PVP_TrackersNet",
+      "icon": "hunter_pvp_trackersnet",
       "castTime": "Instant",
       "range": 40,
       "type": "Physical",
