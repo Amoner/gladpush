@@ -329,25 +329,6 @@
       "id": "130616"
     },
     {
-      "name": "Shockwave",
-      "class": "Warrior",
-      "spec": null,
-      "drCategory": "stun",
-      "duration": 2,
-      "cooldown": 40,
-      "icon": "ability_warrior_shockwave",
-      "castTime": "instant",
-      "range": 10,
-      "type": "Physical",
-      "breakable": false,
-      "dispellable": false,
-      "aoeOrSingle": "AoE",
-      "secondaryEffects": null,
-      "talentSpecific": true,
-      "pvpModifications": null,
-      "id": "132168"
-    },
-    {
       "name": "Storm Bolt",
       "class": "Warrior",
       "spec": "Arms, Fury",
@@ -384,25 +365,6 @@
       "talentSpecific": true,
       "pvpModifications": null,
       "id": "1330"
-    },
-    {
-      "name": "Shockwave",
-      "class": "Warrior",
-      "spec": "all",
-      "drCategory": "stun",
-      "duration": 4,
-      "cooldown": 20,
-      "icon": "ability_warrior_shockwave",
-      "castTime": "instant",
-      "range": 10,
-      "type": "Physical",
-      "breakable": true,
-      "dispellable": false,
-      "aoeOrSingle": "AoE",
-      "secondaryEffects": "stun",
-      "talentSpecific": false,
-      "pvpModifications": null,
-      "id": "145047"
     },
     {
       "name": "Scare Beast",
@@ -2194,7 +2156,7 @@
     {
       "name": "Shockwave",
       "class": "Warrior",
-      "spec": "Protection",
+      "spec": null,
       "drCategory": "stun",
       "duration": 4,
       "cooldown": 20,
