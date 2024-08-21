@@ -314,7 +314,7 @@
       "class": "Warlock",
       "spec": "all",
       "drCategory": "disorient",
-      "duration": 20,
+      "duration": 8,
       "cooldown": 0,
       "icon": "spell_shadow_possession",
       "castTime": "Instant",
