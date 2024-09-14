@@ -1871,7 +1871,7 @@
       "drCategory": "root",
       "duration": 30,
       "cooldown": 90,
-      "icon": "ability_evoker_earthen_pillar",
+      "icon": "ability_earthen_pillar",
       "castTime": "Instant",
       "range": 30,
       "type": "Magic",
