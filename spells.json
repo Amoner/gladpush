@@ -101,7 +101,7 @@
     {
       "name": "Asphyxiate",
       "class": "Death Knight",
-      "spec": "Frost",
+      "spec": "",
       "drCategory": "stun",
       "duration": 4,
       "cooldown": 45,
@@ -291,13 +291,13 @@
       "id": "119381"
     },
     {
-      "name": "Frost Nova",
+      "name": " Nova",
       "class": "Mage",
       "spec": "all",
       "drCategory": "root",
       "duration": 6,
       "cooldown": 30,
-      "icon": "spell_frost_frostnova",
+      "icon": "spell__frostnova",
       "castTime": "Instant",
       "range": null,
       "type": "Magic",
@@ -2484,7 +2484,7 @@
     {
       "name": "Ring of Frost",
       "class": "Mage",
-      "spec": "Frost",
+      "spec": "all",
       "drCategory": "incapacitate",
       "duration": 6,
       "cooldown": 45,
