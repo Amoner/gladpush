@@ -291,13 +291,13 @@
       "id": "119381"
     },
     {
-      "name": " Nova",
+      "name": "Frost Nova",
       "class": "Mage",
       "spec": "all",
       "drCategory": "root",
       "duration": 6,
       "cooldown": 30,
-      "icon": "spell__frostnova",
+      "icon": "spell_frost_frostnova",
       "castTime": "Instant",
       "range": null,
       "type": "Magic",
