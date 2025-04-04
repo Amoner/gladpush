@@ -1,0 +1,53 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "My RAG Endpoint",
+    "version": "1.0"
+  },
+  "servers": [
+    {
+      "url": "https://k99167koci.execute-api.us-east-2.amazonaws.com/dev"
+    }
+  ],
+  "paths": {
+    "/query": {
+      "post": {
+        "summary": "Ask a question and get an answer",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "question": {
+                    "type": "string",
+                    "description": "The question to send to the LLM"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "answer": {
+                      "type": "string",
+                      "description": "The LLM’s answer"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
