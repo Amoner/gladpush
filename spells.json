@@ -2746,7 +2746,7 @@
       "secondaryEffects": "Disorients enemies who enter for 3 seconds and burns for 3% of their maximum health over its duration. Overrides Ring of Frost.",
       "talentSpecific": false,
       "pvpModifications": "PvP talent added in 11.1, maximum duration capped at 3 seconds in PvP",
-      "id": "PVP6"
+      "id": "353082"
     },
     {
       "name": "Blessing of Spellwarding",
@@ -2940,3 +2940,4 @@
     }
   ]
 }
+
