@@ -16,7 +16,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": null,
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "102359"
     },
     {
@@ -38,7 +38,7 @@
         "effect2": "Pulls enemies back to the center if they attempt to leave"
       },
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Displacement DR category - 10 second reset timer",
       "id": "102793"
     },
     {
@@ -57,7 +57,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "10326"
     },
     {
@@ -76,7 +76,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Breaks on a damage threshold rather than any damage (Patch 11.1)",
       "talentSpecific": true,
-      "pvpModifications": "Damage threshold mechanic added in 11.1",
+      "pvpModifications": "Damage threshold mechanic added in 11.1, maximum duration capped at 4 seconds in PvP",
       "id": "105421"
     },
     {
@@ -95,7 +95,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Interrupts spellcasting",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "107079"
     },
     {
@@ -114,7 +114,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Silence",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "108194"
     },
     {
@@ -133,7 +133,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Displacement DR category - 10 second reset timer",
       "id": "108199"
     },
     {
@@ -152,7 +152,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "The tendrils root all enemies within 8 yards for 20 seconds.",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "114404"
     },
     {
@@ -171,7 +171,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Breaks on a damage threshold rather than any damage (Patch 11.1)",
       "talentSpecific": false,
-      "pvpModifications": "Damage threshold mechanic added in 11.1",
+      "pvpModifications": "Damage threshold mechanic added in 11.1, maximum duration capped at 6 seconds in PvP",
       "id": "115078"
     },
     {
@@ -190,7 +190,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "116706"
     },
     {
@@ -209,7 +209,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "117526"
     },
     {
@@ -228,7 +228,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "stuns the target",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "118345"
     },
     {
@@ -249,7 +249,7 @@
         "Damage over time"
       ],
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "118905"
     },
     {
@@ -268,7 +268,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Transforms the target into a sheep, wandering around, unable to attack or cast spells. Breaks on a damage threshold rather than any damage. Health regeneration reduced by 50% (Patch 11.1).",
       "talentSpecific": false,
-      "pvpModifications": "Damage threshold mechanic and 50% healing reduction added in 11.1",
+      "pvpModifications": "Damage threshold mechanic and 50% healing reduction added in 11.1, maximum duration capped at 6 seconds in PvP",
       "id": "118"
     },
     {
@@ -287,7 +287,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "119381"
     },
     {
@@ -306,7 +306,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Roots all enemies within 12 yards in ice",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "122"
     },
     {
@@ -325,7 +325,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "130616"
     },
     {
@@ -344,7 +344,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Deals (29.754% of Attack power) Physical damage",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "132169"
     },
     {
@@ -403,7 +403,7 @@
         "Fears the beast, causing it to run in fear for up to 20 seconds"
       ],
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "1513"
     },
     {
@@ -441,7 +441,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "reduces movement speed by 70%",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Displacement DR category - 10 second reset timer",
       "id": "157981"
     },
     {
@@ -460,7 +460,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Rooted",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "357018"
     },
     {
@@ -479,7 +479,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Stuns the target for 4 seconds",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "163505"
     },
     {
@@ -498,7 +498,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Stun for 2 sec",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 2 seconds in PvP",
       "id": "171017"
     },
     {
@@ -517,7 +517,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Stuns for 3 seconds",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "171018"
     },
     {
@@ -536,7 +536,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Awards 1 combo point. Breaks on a damage threshold rather than any damage (Patch 11.1).",
       "talentSpecific": false,
-      "pvpModifications": "Damage threshold mechanic added in 11.1",
+      "pvpModifications": "Damage threshold mechanic added in 11.1, maximum duration capped at 4 seconds in PvP",
       "id": "1776"
     },
     {
@@ -555,7 +555,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Kills increase damage by 10%",
       "talentSpecific": false,
-      "pvpModifications": "Generates 30 Fury instead of 30 Essence",
+      "pvpModifications": "Generates 30 Fury instead of 30 Essence, maximum duration capped at 2 seconds in PvP",
       "id": "179057"
     },
     {
@@ -574,7 +574,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Awards 1 combo point",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "1833"
     },
     {
@@ -593,7 +593,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Seems to be off DR for knockback",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Off displacement DR category",
       "id": "186387"
     },
     {
@@ -633,7 +633,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Knock enemies to the side and causes high Physical damage",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 2 seconds in PvP",
       "id": "197214"
     },
     {
@@ -652,7 +652,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "10% chance to freeze the target for 4 sec",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "198121"
     },
     {
@@ -671,7 +671,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "198909"
     },
     {
@@ -690,7 +690,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Root",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "199042"
     },
     {
@@ -709,7 +709,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": null,
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "199085"
     },
     {
@@ -728,7 +728,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Stun",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "200166"
     },
     {
@@ -747,7 +747,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Apply Aura: Stun",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "200196"
     },
     {
@@ -766,7 +766,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "200200"
     },
     {
@@ -785,7 +785,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Apply Aura: Stun. Breaks on a damage threshold rather than any damage (Patch 11.1).",
       "talentSpecific": false,
-      "pvpModifications": "Damage threshold mechanic added in 11.1",
+      "pvpModifications": "Damage threshold mechanic added in 11.1, maximum duration capped at 6 seconds in PvP",
       "id": "20066"
     },
     {
@@ -804,7 +804,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Knock Back",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "202244"
     },
     {
@@ -823,7 +823,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "knocking back that allows attacks within 3 yards",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Displacement DR category - 10 second reset timer",
       "id": "202249"
     },
     {
@@ -842,7 +842,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Healing reduction by 10%",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "202274"
     },
     {
@@ -861,7 +861,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Deals 50% additional damage to targets in melee range, knock all targets in hit box 14 yds",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "202346"
     },
     {
@@ -880,7 +880,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Applies Aura: Stun",
       "talentSpecific": false,
-      "pvpModifications": "Cooldown increased from 20 to 30 seconds in patch 11.2",
+      "pvpModifications": "Cooldown increased from 20 to 30 seconds in patch 11.2, maximum duration capped at 5 seconds in PvP",
       "id": "203123"
     },
     {
@@ -899,7 +899,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Breaks on a damage threshold rather than any damage (Patch 11.1)",
       "talentSpecific": false,
-      "pvpModifications": "Damage threshold mechanic added in 11.1",
+      "pvpModifications": "Damage threshold mechanic added in 11.1, maximum duration capped at 5 seconds in PvP",
       "id": "203337"
     },
     {
@@ -918,7 +918,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Roots the target in place for 4 sec.",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "204085"
     },
     {
@@ -956,7 +956,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "205364"
     },
     {
@@ -975,7 +975,7 @@
       "aoeOrSingle": "aoe",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 2 seconds in PvP",
       "id": "20549"
     },
     {
@@ -996,7 +996,7 @@
         "reduces_move_speed": 50
       },
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 5 seconds in PvP",
       "id": "207167"
     },
     {
@@ -1015,7 +1015,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Disorients enemies for 20 sec",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "207685"
     },
     {
@@ -1034,7 +1034,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Breaks on a damage threshold rather than any damage (Patch 11.1)",
       "talentSpecific": false,
-      "pvpModifications": "Damage threshold mechanic added in 11.1",
+      "pvpModifications": "Damage threshold mechanic added in 11.1, maximum duration capped at 5 seconds in PvP",
       "id": "2094"
     },
     {
@@ -1072,7 +1072,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Damage Expires: 10% of their health in Shadow damage",
       "talentSpecific": null,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "210141"
     },
     {
@@ -1091,7 +1091,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Deals Chaos damage",
       "talentSpecific": true,
-      "pvpModifications": "Can be replaced by Illidan's Grasp PvP talent",
+      "pvpModifications": "Can be replaced by Illidan's Grasp PvP talent, maximum duration capped at 4 seconds in PvP",
       "id": "211881"
     },
     {
@@ -1110,7 +1110,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Reduces melee and ranged hit chance by 80%",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "212638"
     },
     {
@@ -1129,7 +1129,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Disorients the target and deals minor damage",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "213691"
     },
     {
@@ -1167,7 +1167,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Breaks on a damage threshold rather than any damage (Patch 11.1)",
       "talentSpecific": false,
-      "pvpModifications": "Damage threshold mechanic added in 11.1",
+      "pvpModifications": "Damage threshold mechanic added in 11.1, maximum duration capped at 4 seconds in PvP",
       "id": "221527"
     },
     {
@@ -1186,7 +1186,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Cripples the target with dark energy and stuns them for 5 sec.",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "221562"
     },
     {
@@ -1205,7 +1205,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "233582"
     },
     {
@@ -1262,7 +1262,7 @@
       "aoeOrSingle": "aoe",
       "secondaryEffects": "Knockback",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Displacement DR category - 10 second reset timer",
       "id": "236777"
     },
     {
@@ -1281,7 +1281,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Marksmanship variant doesn't require line of sight",
       "talentSpecific": false,
-      "pvpModifications": "Marksmanship has unique variant in 11.2",
+      "pvpModifications": "Marksmanship has unique variant in 11.2, maximum duration capped at 3 seconds in PvP",
       "id": "24394"
     },
     {
@@ -1300,7 +1300,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Knockdown",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 1.5 seconds in PvP",
       "id": "255723"
     },
     {
@@ -1319,7 +1319,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Slows enemies by 50% for 5 sec",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 5 seconds in PvP",
       "id": "255941"
     },
     {
@@ -1338,7 +1338,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Apply Aura: Run Speed Limit is 0%",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "261589"
     },
     {
@@ -1357,7 +1357,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Only works on Beasts and Dragonkin",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "2637"
     },
     {
@@ -1376,7 +1376,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "268966"
     },
     {
@@ -1395,7 +1395,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Root, Bleeding",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 5 seconds in PvP",
       "id": "273909"
     },
     {
@@ -1414,7 +1414,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Transforms the enemy into a frog, incapacitating them and preventing them from doing anything for 60 sec. Damage may interrupt the effect.",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "51514"
     },
     {
@@ -1433,7 +1433,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Enhances the effects of the next spell",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "285515"
     },
     {
@@ -1455,7 +1455,7 @@
         "stunDuration": 4
       },
       "talentSpecific": true,
-      "pvpModifications": "Remorseless Winter's cooldown reduced by 5 seconds",
+      "pvpModifications": "Remorseless Winter's cooldown reduced by 5 seconds, maximum duration capped at 4 seconds in PvP",
       "id": "287254"
     },
     {
@@ -1477,7 +1477,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Knocks the target back",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP, displacement DR category - 10 second reset timer",
       "id": "287712"
     },
     {
@@ -1496,7 +1496,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Stun",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "30283"
     },
     {
@@ -1515,7 +1515,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Periodic Damage",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 5 seconds in PvP",
       "id": "305485"
     },
     {
@@ -1534,7 +1534,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "31661"
     },
     {
@@ -1553,7 +1553,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Move opponent to Monk. Stun both target and Monk for 3 seconds.",
       "talentSpecific": null,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "324382"
     },
     {
@@ -1574,7 +1574,7 @@
         "Snare/Root"
       ],
       "talentSpecific": null,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 5 seconds in PvP",
       "id": "325321"
     },
     {
@@ -1593,7 +1593,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Apply Arcane/Confuse",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "331866"
     },
     {
@@ -1612,7 +1612,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Applies Stun",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "332423"
     },
     {
@@ -1631,7 +1631,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Applies Root",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "33395"
     },
     {
@@ -1650,7 +1650,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "334693"
     },
     {
@@ -1669,7 +1669,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Disorients. Breaks on a damage threshold rather than any damage.",
       "talentSpecific": false,
-      "pvpModifications": "Reduced duration in PvP",
+      "pvpModifications": "Reduced duration in PvP, maximum duration capped at 6 seconds in PvP",
       "id": "3355"
     },
     {
@@ -1688,7 +1688,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Immune to all damage and healing",
       "talentSpecific": false,
-      "pvpModifications": "Duration reduced from 6 to 5 seconds in patch 11.1",
+      "pvpModifications": "Duration reduced from 6 to 5 seconds in patch 11.1, maximum duration capped at 5 seconds in PvP",
       "id": "33786"
     },
     {
@@ -1707,7 +1707,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "339"
     },
     {
@@ -1726,7 +1726,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Applies a silence",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "342375"
     },
     {
@@ -1745,7 +1745,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "355689"
     },
     {
@@ -1783,7 +1783,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Breaks on a damage threshold rather than any damage",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "357768"
     },
     {
@@ -1802,7 +1802,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Disorients the target for the duration and damage has a chance to break the effect",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "360806"
     },
     {
@@ -1821,7 +1821,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Applies 'Stunned'",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "372245"
     },
     {
@@ -1844,7 +1844,7 @@
         "Invulnerable"
       ],
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 5 seconds in PvP",
       "id": "378441"
     },
     {
@@ -1863,7 +1863,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Transforms enemies into sheep, cannot attack or cast spells but regenerates health very quickly; works on Beasts, Humanoids and Critters",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "383121"
     },
     {
@@ -1882,7 +1882,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Damage over time on standing within Consecration",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 5 seconds in PvP",
       "id": "385149"
     },
     {
@@ -1901,7 +1901,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Apply Minor Snare, Apply Aura: Stun",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "385954"
     },
     {
@@ -1920,7 +1920,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Slows the target's movement speed",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "386770"
     },
     {
@@ -1939,7 +1939,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Incapacitate",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "389831"
     },
     {
@@ -1958,7 +1958,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "393456"
     },
     {
@@ -1977,7 +1977,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Root",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 5 seconds in PvP",
       "id": "39965"
     },
     {
@@ -2015,7 +2015,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 5 seconds in PvP",
       "id": "408"
     },
     {
@@ -2053,7 +2053,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Reduces movement speed by 50% for 4 seconds.",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "46968"
     },
     {
@@ -2091,7 +2091,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Knocks enemies back and restores mana",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Displacement DR category - 10 second reset timer",
       "id": "51490"
     },
     {
@@ -2110,7 +2110,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 4 seconds in PvP",
       "id": "5211"
     },
     {
@@ -2129,7 +2129,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Cowers in fear",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "5246"
     },
     {
@@ -2150,7 +2150,7 @@
         "Run Speed Limit = 0"
       ],
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "5484"
     },
     {
@@ -2169,7 +2169,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "55536"
     },
     {
@@ -2188,7 +2188,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Charmed, Possess",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "605"
     },
     {
@@ -2207,7 +2207,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Decreases run speed by 50% for 6 seconds",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Displacement DR category - 10 second reset timer",
       "id": "61391"
     },
     {
@@ -2226,7 +2226,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "64044"
     },
     {
@@ -2245,7 +2245,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Applies Aura Root",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "64695"
     },
     {
@@ -2264,7 +2264,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "6770"
     },
     {
@@ -2283,7 +2283,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Heals the Warlock for 20% of maximum health, Horrify",
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "6789"
     },
     {
@@ -2302,7 +2302,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "710"
     },
     {
@@ -2324,7 +2324,7 @@
         "Any Direct Damage Effect"
       ],
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "75148"
     },
     {
@@ -2343,7 +2343,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "8122"
     },
     {
@@ -2362,7 +2362,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": null,
       "talentSpecific": true,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "82691"
     },
     {
@@ -2381,7 +2381,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Stuns the target",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 5 seconds in PvP",
       "id": "853"
     },
     {
@@ -2400,7 +2400,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Stuns the target for 4 sec.",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 3 seconds in PvP",
       "id": "89766"
     },
     {
@@ -2419,7 +2419,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Interrupt casting, Physical damage",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 2 seconds in PvP",
       "id": "91797"
     },
     {
@@ -2438,7 +2438,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "Interrupts spellcasting",
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 1 second in PvP",
       "id": "91800"
     },
     {
@@ -2457,7 +2457,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": null,
       "talentSpecific": false,
-      "pvpModifications": null,
+      "pvpModifications": "Maximum duration capped at 6 seconds in PvP",
       "id": "9484"
     },
     {
@@ -2479,7 +2479,7 @@
         "Breaks on a damage threshold rather than any damage (Patch 11.1)"
       ],
       "talentSpecific": false,
-      "pvpModifications": "Damage threshold mechanic added in 11.1",
+      "pvpModifications": "Damage threshold mechanic added in 11.1, maximum duration capped at 3 seconds in PvP",
       "id": "99"
     },
     {
@@ -2517,8 +2517,122 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Deals Frost damage",
       "talentSpecific": false,
-      "pvpModifications": "Cooldown reduced from 3 minutes to 90 seconds in patch 11.2",
+      "pvpModifications": "Cooldown reduced from 3 minutes to 90 seconds in patch 11.2, maximum duration capped at 3 seconds in PvP",
       "id": "279302"
+    },
+    {
+      "name": "Anti-Magic Zone",
+      "class": "Death Knight",
+      "spec": "all",
+      "drCategory": null,
+      "duration": 8,
+      "cooldown": 240,
+      "icon": "spell_deathknight_antimagiczone",
+      "castTime": "Instant",
+      "range": 10,
+      "type": "Magic",
+      "breakable": null,
+      "dispellable": false,
+      "aoeOrSingle": "AoE",
+      "secondaryEffects": "Absorbs magic damage for party/raid members within 10 yards for 8 seconds (10 seconds with Assimilation talent)",
+      "talentSpecific": false,
+      "pvpModifications": "Cooldown increased to 4 minutes in patch 11.2, reduced to 2:40 with Assimilation talent",
+      "id": "51052"
+    },
+    {
+      "name": "Death Grip",
+      "class": "Death Knight",
+      "spec": "all",
+      "drCategory": "knockback",
+      "duration": null,
+      "cooldown": 15,
+      "icon": "spell_deathknight_strangulate",
+      "castTime": "Instant",
+      "range": 30,
+      "type": "Physical",
+      "breakable": null,
+      "dispellable": false,
+      "aoeOrSingle": "Single Target",
+      "secondaryEffects": "Forces the target to move to Death Knight",
+      "talentSpecific": false,
+      "pvpModifications": "15 seconds in PvE, remains 25 seconds in PvP (patch 11.2), displacement DR category - 10 second reset timer",
+      "id": "49576"
+    },
+    {
+      "name": "Void Torrent",
+      "class": "Priest",
+      "spec": "Shadow",
+      "drCategory": null,
+      "duration": 3,
+      "cooldown": 30,
+      "icon": "spell_priest_void-blast",
+      "castTime": "Channeled",
+      "range": 40,
+      "type": "Shadow",
+      "breakable": null,
+      "dispellable": false,
+      "aoeOrSingle": "Single Target",
+      "secondaryEffects": "Triggers Void Volley for 20 seconds after completion",
+      "talentSpecific": true,
+      "pvpModifications": "Cooldown reduced from 45 to 30 seconds in patch 11.2",
+      "id": "263165"
+    },
+    {
+      "name": "Shadow Crash",
+      "class": "Priest",
+      "spec": "Shadow",
+      "drCategory": null,
+      "duration": null,
+      "cooldown": 15,
+      "icon": "spell_shadow_shadowbolt",
+      "castTime": "Instant",
+      "range": 40,
+      "type": "Shadow",
+      "breakable": null,
+      "dispellable": false,
+      "aoeOrSingle": "AoE",
+      "secondaryEffects": "Now has 2 charges (was 1 charge with 20s cooldown)",
+      "talentSpecific": true,
+      "pvpModifications": "15-second cooldown with 2 charges in patch 11.2",
+      "id": "205385"
+    },
+    {
+      "name": "Summon Vilefiend",
+      "class": "Warlock",
+      "spec": "Demonology",
+      "drCategory": null,
+      "duration": 15,
+      "cooldown": 25,
+      "icon": "inv_beholderwarlock",
+      "castTime": "Instant",
+      "range": 30,
+      "type": "Shadow",
+      "breakable": null,
+      "dispellable": false,
+      "aoeOrSingle": "Single Target",
+      "secondaryEffects": "Summons a Vilefiend for 15 seconds",
+      "talentSpecific": true,
+      "pvpModifications": "Cooldown reduced from 30 to 25 seconds in patch 11.2",
+      "id": "264119"
+    },
+    {
+      "name": "Summon Demonic Tyrant",
+      "class": "Warlock",
+      "spec": "Demonology",
+      "drCategory": null,
+      "duration": 15,
+      "cooldown": 60,
+      "icon": "inv_demonhunter_vengeance",
+      "castTime": "Instant",
+      "range": 0,
+      "type": "Shadow",
+      "breakable": null,
+      "dispellable": false,
+      "aoeOrSingle": "AoE",
+      "secondaryEffects": "Extends duration of all active demons and increases their damage",
+      "talentSpecific": false,
+      "pvpModifications": "Standardized to 1-minute cooldown in patch 11.2 for consistent burst windows",
+      "id": "265187"
     },
     {
       "name": "Berserker Roar",
@@ -2555,7 +2669,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Grants Remorseless Winter and increases its damage by 1000% and its radius by 150%, but your movement speed is heavily reduced for its duration. Pillar of Frost's cooldown increased by 15 seconds.",
       "talentSpecific": false,
-      "pvpModifications": "PvP talent added in 11.2",
+      "pvpModifications": "PvP talent added in 11.2, maximum duration capped at 5 seconds in PvP",
       "id": "PVP2"
     },
     {
@@ -2574,7 +2688,7 @@
       "aoeOrSingle": "Single Target",
       "secondaryEffects": "You strangle the target with demonic magic, stunning them in place and dealing Shadow damage over 5 seconds while the target is grasped. Can move while channeling. Use Illidan's Grasp again to toss the target to a location within 20 yards. Replaces Fel Eruption.",
       "talentSpecific": false,
-      "pvpModifications": "PvP talent added in 11.1",
+      "pvpModifications": "PvP talent added in 11.1, maximum duration capped at 5 seconds in PvP",
       "id": "PVP3"
     },
     {
@@ -2631,7 +2745,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Disorients enemies who enter for 3 seconds and burns for 3% of their maximum health over its duration. Overrides Ring of Frost.",
       "talentSpecific": false,
-      "pvpModifications": "PvP talent added in 11.1",
+      "pvpModifications": "PvP talent added in 11.1, maximum duration capped at 3 seconds in PvP",
       "id": "PVP6"
     },
     {
@@ -2688,7 +2802,7 @@
       "aoeOrSingle": "AoE",
       "secondaryEffects": "Next Thunder Clap after Shield Slam, Revenge, or Execute roots all enemies for 6 seconds",
       "talentSpecific": false,
-      "pvpModifications": "PvP talent added in 11.2",
+      "pvpModifications": "PvP talent added in 11.2, maximum duration capped at 6 seconds in PvP",
       "id": "PVP12"
     },
     {
