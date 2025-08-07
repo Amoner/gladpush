@@ -156,25 +156,6 @@
       "id": "114404"
     },
     {
-      "name": "Paralysis",
-      "class": "Monk",
-      "spec": "all",
-      "drCategory": "incapacitate",
-      "duration": 60,
-      "cooldown": 45,
-      "icon": "ability_monk_paralysis",
-      "castTime": "instant",
-      "range": 20,
-      "type": "Physical",
-      "breakable": true,
-      "dispellable": true,
-      "aoeOrSingle": "Single Target",
-      "secondaryEffects": "Breaks on a damage threshold rather than any damage (Patch 11.1)",
-      "talentSpecific": false,
-      "pvpModifications": "Damage threshold mechanic added in 11.1, maximum duration capped at 6 seconds in PvP",
-      "id": "115078"
-    },
-    {
       "name": "Disable",
       "class": "Monk",
       "spec": "all",
@@ -2940,5 +2921,6 @@
     }
   ]
 }
+
 
 
