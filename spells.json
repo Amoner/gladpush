@@ -1405,8 +1405,8 @@
     {
       "name": "Cyclone",
       "class": "Druid",
-      "spec": null,
-      "drCategory": "cyclone",
+      "spec": "all",
+      "drCategory": "disorient",
       "duration": 6,
       "cooldown": 0,
       "icon": "spell_nature_earthbind",
