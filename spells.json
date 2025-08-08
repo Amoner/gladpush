@@ -1519,7 +1519,7 @@
     {
       "name": "Sleep Walk",
       "class": "Evoker",
-      "spec": "Devastation, Preservation, Augmentation",
+      "spec": "all",
       "drCategory": "disorient",
       "duration": 8,
       "cooldown": 0,
