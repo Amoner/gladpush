@@ -544,7 +544,7 @@
       "class": "Monk",
       "spec": "all",
       "drCategory": "disorient",
-      "duration": 20,
+      "duration": 6,
       "cooldown": 15,
       "icon": "inv_chaos_orb",
       "castTime": "Instant",
@@ -2651,4 +2651,5 @@
     }
   ]
 }
+
 
